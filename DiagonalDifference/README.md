@@ -1,10 +1,16 @@
-Function description
+# Hacker Rank DiagonalDifference
+➪ Given a square matrix, calculate the absolute difference between the sums of its diagonals. 
+For example, the square matrix  is shown below:
 
-Complete the  function in the editor below.
+1 2 3
 
-diagonalDifference takes the following parameter:
+4 5 6
 
-int arr[n][m]: an array of integers
-Return
+7 8 9
 
-int: the absolute diagonal difference
+➪ The left-to-right diagonal = 1 + 5 + 9 = 15. The right to left diagonal = 3 + 5 + 9 = 17. Their absolute difference is |15 - 17| = 2.
+## Return
+➪ int: the absolute diagonal difference
+## Note
+➪ |x| is the absolute value of x
+
