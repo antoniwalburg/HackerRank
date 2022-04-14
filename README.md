@@ -2,3 +2,4 @@
 ### 🐍 Solutions with an explanation in Python 🐍
 ### 🏝️ Simple answers and easy to understand 🏝️
 #### 🟢 Easy 🟢 ➕ 🟠 Medium 🟠 ➕ 🔴 Hard 🔴 
+##### ✔️ Solving one problem per day ✔️
